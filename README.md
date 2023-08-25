@@ -1,4 +1,9 @@
-### Hi, my name is Miguel Villasán 👋
+### Hi, my name is [Miguel Villasán](https://www.linkedin.com/in/miguel-villasan/)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+I´m Data Analyst at [VMLY&R](https://www.vmlyr.com/) in Madrid
+
+#### 🔗 Connect with me
+<a href="https://www.linkedin.com/in/miguel-villasan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguelvillasan" height="30" width="40" /></a>
+
 
 <!--
 **miguelvillasan/miguelvillasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
